@@ -2,7 +2,7 @@
 /*
 	Plugin Name: Disable Password Change Notifications
 	Plugin URI: https://github.com/richardsession/wp-disable-password-change-notification
-	Description: Disable password update emails in WordPress for admins
+	Description: Stop user password update emails from being sent to WordPress admins
 	Version: 1.0.0
 	Author: Richard Session
 	Author URI: https://richardsession.com
