@@ -1,14 +1,18 @@
 {
     "name": "richardsession/wp-disable-password-change-notification",
     "description": "Disable password update emails in WordPress for admins",
+    "homepage": "https://github.com/richardsession/wp-disable-password-change-notification",
     "type": "wordpress-plugin",
+    "keywords": ["wordpress", "plugin", "email", "password", "admin", "disable"],
     "require": {
         "composer/installers": "^1.5"
     },
     "authors": [
         {
             "name": "Richard Session",
-            "email": "info@richardsession.com"
+            "email": "info@richardsession.com",
+            "homepage": "https://richardsession.com",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
